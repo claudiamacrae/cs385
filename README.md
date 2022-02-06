@@ -1,2 +1,2 @@
 # cs385
-Algorthims - Spring 2021
+Algorithms - Spring 2021
